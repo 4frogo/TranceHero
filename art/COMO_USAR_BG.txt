@@ -1,0 +1,9 @@
+Para usar sua imagem de fundo de verdade (a do palco psy):
+1. Salve a imagem como bg.png (ou bg.jpg) nesta pasta art/
+   Ex: C:\Users\pedro\Documents\TranceHero\art\bg.png
+2. No Godot aperte F5 de novo - o jogo detecta sozinho e usa ela com overlay escuro.
+3. Recomendado: imagem 1280x720 ou maior, formato .png ou .jpg.
+
+Os 4 simbolos dos botoes ja sao vetoriais no codigo:
+0 = espiral verde | 1 = olho azul | 2 = sol amarelo | 3 = triskel vermelho
+Se quiser trocar por PNG, me avise que eu ligo btn_0.png ... btn_3.png.

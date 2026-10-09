@@ -1,0 +1,8 @@
+# Godot
+.godot/
+build/
+*.log
+
+# OS
+Thumbs.db
+Desktop.ini
